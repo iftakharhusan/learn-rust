@@ -32,6 +32,11 @@ fn main() {
             name: "Ayan".to_owned(),
             color: "Blue".to_owned(),
             age: 6
+        },
+        Person {
+            name: "Nabiha".to_owned(),
+            color: "Pink".to_owned(),
+            age: 9
         }
     ];
 
